@@ -1,0 +1,1 @@
+In this example, you'll learn to print the number entered by a user using C++ cout statement.

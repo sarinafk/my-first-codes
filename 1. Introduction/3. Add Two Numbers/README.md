@@ -1,0 +1,1 @@
+In this program, user is asked to enter two integers. Then, the sum of those two integers is stored in a variable and displayed on the screen.
